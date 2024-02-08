@@ -1,4 +1,5 @@
 "use strict"; // treat all JS code as newer version
+// 2 types of documentation .MDN  
 
 // alert( 3 + 3) // we are using nodejs, not browser
 
